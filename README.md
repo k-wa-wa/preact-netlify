@@ -1,3 +1,6 @@
+netlify cmsから作成
+
+
 # blog
 
 ## CLI Commands
